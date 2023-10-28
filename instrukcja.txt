@@ -1,0 +1,5 @@
+scroll - poruszanie się w dół
+dowolny klawisz - poruszanie się w górę
+
+scroll - move down
+any button - move up
